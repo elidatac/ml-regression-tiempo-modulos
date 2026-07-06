@@ -53,6 +53,7 @@ ml-tiempo-modulos/
 ├── Dockerfile
 ├── requirements.txt
 ├── README.md
+├── entrenamiento_modelo_regresion.ipynb
 └── .gitignore
 ```
 
