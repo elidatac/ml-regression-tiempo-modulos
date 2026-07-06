@@ -84,7 +84,7 @@ El modelo fue entrenado utilizando un conjunto de **1,000 registros sintéticos*
 
 ---
 
-##Interpretación:
+## Interpretación:
 
 El modelo alcanzó un coeficiente de determinación (R²) de 93.23 %, lo que indica una buena capacidad para estimar la duración del desarrollo sobre el conjunto de datos sintéticos generado.
 
