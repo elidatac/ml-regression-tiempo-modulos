@@ -1,0 +1,21 @@
+{
+    "nombre_proyecto": "Estimador de tiempo de desarrollo de módulos",
+    "version": "1.0.0",
+    "fecha_entrenamiento": "2026-07-05",
+    "modelo": "Regresión Lineal",
+    "framework": "scikit-learn",
+    "tipo_problema": "Regresión",
+    "variable_objetivo": "duracion_estimada_dias",
+    "variables_entrada": [
+        "interfaces_usuario",
+        "funcionalidades_backend",
+        "complejidad",
+        "horas_disponibles_dia"
+    ],
+    "metricas": {
+        "MAE": 2.39,
+        "RMSE": 3.15,
+        "R2": 0.9323
+    },
+    "descripcion": "Modelo de machine learning para estimar en días la duración del desarrollo de módulos de software con base en sus características principales y la disponibilidad diaria del desarrollador."
+}
