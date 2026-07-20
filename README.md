@@ -281,27 +281,21 @@ docker run -p 8000:8000 monitoreo-ml
 
 
 
-```markdown
-![Swagger](evidencias/TRAZABILIDAD EN API CON FASTAPI.png)
-```
+![Swagger](evidencias/api.png)
 
 ---
 
 ## Dashboard Operativo
 
 
-```markdown
-![Dashboard](evidencias/DASHBOARD OPERATIVO.png)
-```
+![Dashboard](evidencias/dashboard_operativo.png)
 
 ---
 
 ## Historial de alertas
 
 
-```markdown
-![Alertas](evidencias/MONITOREO Y ALERTAS.png)
-```
+![Alertas](evidencias/monitoreo_alertas.png)
 
 ---
 
